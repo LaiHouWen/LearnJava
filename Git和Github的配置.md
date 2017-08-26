@@ -49,5 +49,9 @@ $ git push git@github.com:xxxxx/xxxx.git
 
 
  ![image](https://github.com/LaiHouWen/LearnJava/111111.jpg)
+ 
+ 
+ 8. 合并远端分支到本地分支的两种方式  
+ git merge origin/master
 
 
