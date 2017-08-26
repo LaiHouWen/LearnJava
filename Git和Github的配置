@@ -29,7 +29,9 @@ git config –global user.email “邮箱”
 
 即完成了Git和Github的配置。
 
-6.
+6.先克隆一份代码
+$ git clone git@github.com:xxxxx/xxxx.git
+本地库关联远程库，在本地仓库目录运行命令：
 $ git remote add origin git@github.com:xxxxx/xxxx.git
 
 同步项目
@@ -45,5 +47,7 @@ $ git push git@github.com:xxxxx/xxxx.git
 
 7.Git的一些常用命令
 
+
+ ![image](https://github.com/LaiHouWen/LearnJava/111111.jpg)
 
 
